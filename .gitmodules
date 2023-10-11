@@ -1,0 +1,6 @@
+[submodule "wgpu-native"]
+	path = wgpu-native
+	url = git@github.com:gfx-rs/wgpu-native.git
+[submodule "jextract"]
+	path = jextract
+	url = git@github.com:openjdk/jextract.git
